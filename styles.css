@@ -1,0 +1,100 @@
+/* Navnar til alle sider*/
+
+.navbar {
+    background-color: #A4D062;
+}
+
+
+
+.login-button:hover {
+    background-color: #c5e09c;
+}
+
+
+/* Login side*/
+
+.loginfelt {
+    background-color: #c5e09c;
+}
+
+/* Opret profil side*/
+.opretprofilfelt {
+    background-color: #c5e09c;
+}
+
+/* index */
+.bg-grey-1{
+    background-color: rgb(56, 55, 55);
+    
+    padding: 10px;
+}
+.text-light {
+    color: #fff;
+}
+
+/* Info */
+.tekstfelt1 {
+    background-color: #c5e09c;
+}
+
+.tekstfelt2 {
+    background-color: #c5e09c;
+}
+
+
+/* Opskrift side */
+.opskriftbaggrund {
+    background-image: url(images/Opskrift\ baggrund.svg);
+    max-width: 100%;
+    
+}
+.circle-text {
+    width: 700px;
+    height: 300px;
+    border-radius: 70%;
+    background-color: #ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circle-text-inner {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bd-opskrift1-img {
+    background-image: url(images/chicken\ chipotle\ bowl.webp);
+}
+
+.btn {
+    background-color: #88B842;
+    border: #88B842;
+}
+
+.bd-placeholder-img1 {
+    background-image: url(images/sunde\ opskrifter.jpeg);
+}
+
+.mask {
+    border: none;
+}
+
+/* CSS for profile circle logo */
+.profile-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #007bff; /* Bootstrap primary color */
+  }
+  
+  /* CSS for user initials */
+  #userInitials {
+    color: #fff; /* White text color */
+    font-size: 16px; /* Adjust size as needed */
+  }
+  
